@@ -1,2 +1,0 @@
-This is the third emacs file
-gitignore is also expected to ignore this

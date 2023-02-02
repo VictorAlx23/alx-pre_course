@@ -1,1 +1,0 @@
-This is an emacs file git is expected to ignore
